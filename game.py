@@ -8,3 +8,5 @@ if int(guess) == secret_number:
     print("Correct! You guessed the number.")
 else:
     print("Wrong guess.")
+    print("The correct number was:", secret_number)
+
