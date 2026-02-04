@@ -10,3 +10,6 @@ else:
     print("Wrong guess.")
     print("The correct number was:", secret_number)
 
+# Generate random number
+# Ask player for input
+# Check if the guess is correct
